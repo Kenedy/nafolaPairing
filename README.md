@@ -1,5 +1,12 @@
 # nafola-pairing
 
+Pairing for Kladno Nafola League IV with following criterias:
+
+- teams of the same coach should not play against each other
+- teams should not be paired against the same team more than once
+
+## Installation and execution
+
 To install dependencies:
 
 ```bash

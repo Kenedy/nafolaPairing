@@ -1,11 +1,15 @@
 {
-  "Fima": ["BBK Chmel Kroučová", "Orc Lives Matter"],
-  "Matyáš": "Great Khans",
-  "Šmejky": "Clar Karond Misfits",
-  "Vašek": "Incredibly Talented & Humble",
-  "Banzaj": ["Legies of Doom", "Kladenský Šupiny"],
-  "Dandalf": "Yharnam Crypt Ravagers",
-  "Kenedy": "Kraaien",
-  "Zbyšour": "Venner av Fenrir",
-  "Marek": "Amazon Prime"
+	"Fima": ["BBK Chmel Kroučová", "Orc Lives Matter"],
+	"Matyáš": "Great Khans",
+	"Vašek": "Incredibly Talented & Humble",
+	"Banzaj": ["Legies of Doom", "Kladenský Šupiny"],
+	"Dandalf": "Yharnam Crypt Ravagers",
+	"Kenedy": "Kraaien",
+	"Zbyšour": ["Venner av Fenrir", "Suicide Squad"],
+	"Marek": "Amazon Prime",
+	"Horstik": "BeastGrave Overlords",
+	"Hugo": "Macho Maulers",
+	"Šmejky": "Godlike Gators",
+	"Havraha": "Red Run Fasta!",
+	"JD": "Redraft Crushers"
 }
