@@ -20,8 +20,13 @@ export class PairingEngine {
 			for (const pairing of round) {
 				const teamA = this.teams.find((t) => t.name === pairing[0])
 				const teamB = this.teams.find((t) => t.name === pairing[1])
-				teamA!.possiblePairings = teamA!.possiblePairings.filter((t) => t !== teamB)
-				teamB!.possiblePairings = teamB!.possiblePairings.filter((t) => t !== teamA)
+
+				// Teams may not be found if they dropped
+
+				if (teamA && teamB) {
+					teamA.possiblePairings = teamA!.possiblePairings.filter((t) => t !== teamB)
+					teamB.possiblePairings = teamB!.possiblePairings.filter((t) => t !== teamA)
+				}
 			}
 		}
 		// this.teams.forEach((team) => {
