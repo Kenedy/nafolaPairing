@@ -1,74 +1,272 @@
 [
-	[
-		["Suicide Squad", "Orc Lives Matter"],
-		["Legies of Doom", "Great Khans"],
-		["BBK Chmel Kroučová", "Kraaien"],
-		["Incredibly Talented & Humble", "Kladenský Šupiny"],
-		["Red Run Fasta!", "Amazon Prime"],
-		["Godlike Gators", "BeastGrave Overlords"],
-		["Venner av Fenrir", "Yharnam Crypt Ravagers"],
-		["Redraft Crushers", "Macho Maulers"]
-	],
-	[
-		["Venner av Fenrir", "BBK Chmel Kroučová"],
-		["Legies of Doom", "Redraft Crushers"],
-		["Red Run Fasta!", "BeastGrave Overlords"],
-		["Orc Lives Matter", "Incredibly Talented & Humble"],
-		["Suicide Squad", "Amazon Prime"],
-		["Macho Maulers", "Great Khans"],
-		["Kladenský Šupiny", "Godlike Gators"],
-		["Yharnam Crypt Ravagers", "Kraaien"]
-	],
-	[
-		["BBK Chmel Kroučová", "Suicide Squad"],
-		["Legies of Doom", "Yharnam Crypt Ravagers"],
-		["BeastGrave Overlords", "Macho Maulers"],
-		["Incredibly Talented & Humble", "Red Run Fasta!"],
-		["Kladenský Šupiny", "Venner av Fenrir"],
-		["Redraft Crushers", "Kraaien"],
-		["Orc Lives Matter", "Great Khans"],
-		["Godlike Gators", "Amazon Prime"]
-	],
-	[
-		["BBK Chmel Kroučová", "Kladenský Šupiny"],
-		["Red Run Fasta!", "Orc Lives Matter"],
-		["Yharnam Crypt Ravagers", "Macho Maulers"],
-		["Godlike Gators", "Redraft Crushers"],
-		["Suicide Squad", "Great Khans"],
-		["Amazon Prime", "Incredibly Talented & Humble"],
-		["BeastGrave Overlords", "Legies of Doom"],
-		["Kraaien", "Venner av Fenrir"]
-	],
-	[
-		["Venner av Fenrir", "Orc Lives Matter"],
-		["Legies of Doom", "Godlike Gators"],
-		["Macho Maulers", "Incredibly Talented & Humble"],
-		["BBK Chmel Kroučová", "Amazon Prime"],
-		["Kraaien", "Great Khans"],
-		["Red Run Fasta!", "Suicide Squad"],
-		["BeastGrave Overlords", "Kladenský Šupiny"],
-		["Yharnam Crypt Ravagers", "Redraft Crushers"]
-	],
-	[
-		["Orc Lives Matter", "BeastGrave Overlords"],
-		["Incredibly Talented & Humble", "Suicide Squad"]
-	],
-	[
-		["Kladenský Šupiny", "Redraft Crushers"],
-		["Orc Lives Matter", "Macho Maulers"],
-		["Kraaien", "Legies of Doom"],
-		["Amazon Prime", "Venner av Fenrir"],
-		["Godlike Gators", "BBK Chmel Kroučová"],
-		["BeastGrave Overlords", "Incredibly Talented & Humble"],
-		["Yharnam Crypt Ravagers", "Great Khans"]
-	],
-	[
-		["Legies of Doom", "Orc Lives Matter"],
-		["Kladenský Šupiny", "Macho Maulers"],
-		["Kraaien", "Amazon Prime"],
-		["Godlike Gators", "Yharnam Crypt Ravagers"],
-		["BeastGrave Overlords", "Venner av Fenrir"],
-		["Redraft Crushers", "BBK Chmel Kroučová"],
-		["Incredibly Talented & Humble", "Great Khans"]
-	]
+  [
+    [
+      "Suicide Squad",
+      "Orc Lives Matter"
+    ],
+    [
+      "Legies of Doom",
+      "Great Khans"
+    ],
+    [
+      "BBK Chmel Kroučová",
+      "Kraaien"
+    ],
+    [
+      "Incredibly Talented & Humble",
+      "Kladenský Šupiny"
+    ],
+    [
+      "Red Run Fasta!",
+      "Amazon Prime"
+    ],
+    [
+      "Godlike Gators",
+      "BeastGrave Overlords"
+    ],
+    [
+      "Venner av Fenrir",
+      "Yharnam Crypt Ravagers"
+    ],
+    [
+      "Redraft Crushers",
+      "Macho Maulers"
+    ]
+  ],
+  [
+    [
+      "Venner av Fenrir",
+      "BBK Chmel Kroučová"
+    ],
+    [
+      "Legies of Doom",
+      "Redraft Crushers"
+    ],
+    [
+      "Red Run Fasta!",
+      "BeastGrave Overlords"
+    ],
+    [
+      "Orc Lives Matter",
+      "Incredibly Talented & Humble"
+    ],
+    [
+      "Suicide Squad",
+      "Amazon Prime"
+    ],
+    [
+      "Macho Maulers",
+      "Great Khans"
+    ],
+    [
+      "Kladenský Šupiny",
+      "Godlike Gators"
+    ],
+    [
+      "Yharnam Crypt Ravagers",
+      "Kraaien"
+    ]
+  ],
+  [
+    [
+      "BBK Chmel Kroučová",
+      "Suicide Squad"
+    ],
+    [
+      "Legies of Doom",
+      "Yharnam Crypt Ravagers"
+    ],
+    [
+      "BeastGrave Overlords",
+      "Macho Maulers"
+    ],
+    [
+      "Incredibly Talented & Humble",
+      "Red Run Fasta!"
+    ],
+    [
+      "Kladenský Šupiny",
+      "Venner av Fenrir"
+    ],
+    [
+      "Redraft Crushers",
+      "Kraaien"
+    ],
+    [
+      "Orc Lives Matter",
+      "Great Khans"
+    ],
+    [
+      "Godlike Gators",
+      "Amazon Prime"
+    ]
+  ],
+  [
+    [
+      "BBK Chmel Kroučová",
+      "Kladenský Šupiny"
+    ],
+    [
+      "Red Run Fasta!",
+      "Orc Lives Matter"
+    ],
+    [
+      "Yharnam Crypt Ravagers",
+      "Macho Maulers"
+    ],
+    [
+      "Godlike Gators",
+      "Redraft Crushers"
+    ],
+    [
+      "Suicide Squad",
+      "Great Khans"
+    ],
+    [
+      "Amazon Prime",
+      "Incredibly Talented & Humble"
+    ],
+    [
+      "BeastGrave Overlords",
+      "Legies of Doom"
+    ],
+    [
+      "Kraaien",
+      "Venner av Fenrir"
+    ]
+  ],
+  [
+    [
+      "Venner av Fenrir",
+      "Orc Lives Matter"
+    ],
+    [
+      "Legies of Doom",
+      "Godlike Gators"
+    ],
+    [
+      "Macho Maulers",
+      "Incredibly Talented & Humble"
+    ],
+    [
+      "BBK Chmel Kroučová",
+      "Amazon Prime"
+    ],
+    [
+      "Kraaien",
+      "Great Khans"
+    ],
+    [
+      "Red Run Fasta!",
+      "Suicide Squad"
+    ],
+    [
+      "BeastGrave Overlords",
+      "Kladenský Šupiny"
+    ],
+    [
+      "Yharnam Crypt Ravagers",
+      "Redraft Crushers"
+    ]
+  ],
+  [
+    [
+      "Orc Lives Matter",
+      "BeastGrave Overlords"
+    ],
+    [
+      "Incredibly Talented & Humble",
+      "Suicide Squad"
+    ]
+  ],
+  [
+    [
+      "Kladenský Šupiny",
+      "Redraft Crushers"
+    ],
+    [
+      "Orc Lives Matter",
+      "Macho Maulers"
+    ],
+    [
+      "Kraaien",
+      "Legies of Doom"
+    ],
+    [
+      "Amazon Prime",
+      "Venner av Fenrir"
+    ],
+    [
+      "Godlike Gators",
+      "BBK Chmel Kroučová"
+    ],
+    [
+      "BeastGrave Overlords",
+      "Incredibly Talented & Humble"
+    ],
+    [
+      "Yharnam Crypt Ravagers",
+      "Great Khans"
+    ]
+  ],
+  [
+    [
+      "Legies of Doom",
+      "Orc Lives Matter"
+    ],
+    [
+      "Kladenský Šupiny",
+      "Macho Maulers"
+    ],
+    [
+      "Kraaien",
+      "Amazon Prime"
+    ],
+    [
+      "Godlike Gators",
+      "Yharnam Crypt Ravagers"
+    ],
+    [
+      "BeastGrave Overlords",
+      "Venner av Fenrir"
+    ],
+    [
+      "Redraft Crushers",
+      "BBK Chmel Kroučová"
+    ],
+    [
+      "Incredibly Talented & Humble",
+      "Great Khans"
+    ]
+  ],
+  [
+    [
+      "Legies of Doom",
+      "Macho Maulers"
+    ],
+    [
+      "Venner av Fenrir",
+      "Godlike Gators"
+    ],
+    [
+      "Kraaien",
+      "Incredibly Talented & Humble"
+    ],
+    [
+      "BBK Chmel Kroučová",
+      "Great Khans"
+    ],
+    [
+      "Kladenský Šupiny",
+      "Orc Lives Matter"
+    ],
+    [
+      "Yharnam Crypt Ravagers",
+      "BeastGrave Overlords"
+    ],
+    [
+      "Redraft Crushers",
+      "Amazon Prime"
+    ]
+  ]
 ]
